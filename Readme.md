@@ -1,5 +1,5 @@
 # Testing Data Infrastructure & Analysis
-Silahkan mengerjakan sesuai kemampuan Anda, Deadline 18 September 2023, jam 10:00 WIB. Fork repository ini, kirim "Pull Request" jika anda sudah selesai atau kirim email ke royyan@satunol.com.
+Silahkan mengerjakan sesuai kemampuan Anda. Fork repository ini, kirim "Pull Request" jika anda sudah selesai atau kirim email ke royyan@satunol.com. Deadline Rabu 4 Oktober, jam 10:00 WIB.
 ## Kuis
 
 - [?] Anda memiliki tabel "Orders" dengan kolom-kolom berikut: "OrderID," "CustomerID," "OrderDate," dan "TotalAmount." Tuliskan sebuah kueri SQL untuk menampilkan semua pesanan yang dibuat oleh pelanggan dengan ID tertentu pada tanggal tertentu.
